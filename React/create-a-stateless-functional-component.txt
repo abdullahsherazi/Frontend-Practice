@@ -1,0 +1,9 @@
+const MyComponent = () => (
+  // Change code below this line
+<div>
+<h1>hi</h1>
+</div>
+
+
+  // Change code above this line
+)
